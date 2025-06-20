@@ -25,3 +25,8 @@ Dataset yang digunakan adalah `hasil_atr_btc.csv` yang berisi data historis harg
 *   sklearn
 *   matplotlib
 *   seaborn 
+
+**Result**
+![image](https://github.com/user-attachments/assets/68bd1b3a-e917-44e1-9c3d-123feecc87ec)
+
+![image](https://github.com/user-attachments/assets/63259301-beb9-4369-a946-360e7347089b)
