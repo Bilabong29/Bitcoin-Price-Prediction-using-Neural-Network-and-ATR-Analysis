@@ -24,8 +24,4 @@ Dataset yang digunakan adalah `hasil_atr_btc.csv` yang berisi data historis harg
 *   tensorflow
 *   sklearn
 *   matplotlib
-*   seaborn
-
-**Instalasi:**
-
-Anda dapat menginstal dependensi yang diperlukan menggunakan pip:
+*   seaborn 
