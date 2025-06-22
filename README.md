@@ -16,10 +16,12 @@ The analysis covers the following steps:
 This project demonstrates a practical application of neural networks for financial time series analysis and trading signal prediction.
 
 **Result**
-![heatmap](https://github.com/user-attachments/assets/999499a0-1c2a-4995-b875-98cbe667347b)
-![accuracy_boxplot](https://github.com/user-attachments/assets/416c10ee-dc08-4d50-a0f9-c856ac59a32d)
 ![training_history](https://github.com/user-attachments/assets/7d9e0c43-fd90-4797-8fbd-cc513063c2b1)
+
+![accuracy_boxplot](https://github.com/user-attachments/assets/416c10ee-dc08-4d50-a0f9-c856ac59a32d)
+
 ![gridsearch_barplot](https://github.com/user-attachments/assets/0108c3df-f62f-4b30-8f7c-6df5430df509)
-![boxplot](https://github.com/user-attachments/assets/98e6f167-09ea-4fd6-a302-903a9a0c3c3a)
+
 ![gridsearch_heatmap](https://github.com/user-attachments/assets/66e70e54-2748-49c9-a26b-d36609443a4c)
+
 ![accuracy_trend_neurons](https://github.com/user-attachments/assets/74b0817b-6d8c-48f8-92a3-33b1561efb19)
